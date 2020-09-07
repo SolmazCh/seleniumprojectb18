@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1507cc30-4356-47a1-9b45-bab5bb97272d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cjfPgGejUoRmzGDMlJIfIFHEBJ" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test.day1_selenium_intro" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/solma_kxvrxkn/IdeaProjects/seleniumprojectb18/regression.xml">
+    <configuration name="P1_EtsyTitleVerification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.day2_findElement_getText_getAttribute.P1_EtsyTitleVerification" />
+      <module name="seleniumprojectb18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day2_findElement_getText_getAttribute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.day1_selenium_intro.task1" />
+      <module name="seleniumprojectb18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day1_selenium_intro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/solma_kxvrxkn/IdeaProjects/seleniumprojectb18/regression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumprojectb18" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/regression.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Uploading" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumprojectb18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day10_jsexecutor_upload_actions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.day10_jsexecutor_upload_actions" />
+      <option name="MAIN_CLASS_NAME" value="test.day10_jsexecutor_upload_actions.Uploading" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Uploading.uploading_test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumprojectb18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day10_jsexecutor_upload_actions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.day10_jsexecutor_upload_actions" />
+      <option name="MAIN_CLASS_NAME" value="test.day10_jsexecutor_upload_actions.Uploading" />
+      <option name="METHOD_NAME" value="uploading_test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/solma_kxvrxkn/IdeaProjects/seleniumprojectb18/regression.xml" />
+        <item itemvalue="Application.task1" />
+        <item itemvalue="TestNG.Uploading" />
+        <item itemvalue="TestNG.Uploading.uploading_test" />
+        <item itemvalue="Application.P1_EtsyTitleVerification" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1507cc30-4356-47a1-9b45-bab5bb97272d" name="Default Changelist" comment="" />
+      <created>1591046900338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591046900338</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="94" y="94" width="1349" height="646" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1594125926385">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="94" y="94" width="1349" height="646" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1594125926385" />
+    <state x="94" y="94" width="1349" height="646" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1593032456496" />
+    <state x="500" y="101" key="FileChooserDialogImpl" timestamp="1597754046154">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="500" y="101" key="FileChooserDialogImpl/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1597754046154" />
+    <state width="1481" height="119" key="GridCell.Tab.0.bottom" timestamp="1599435877125">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="65" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1594319058000" />
+    <state width="1481" height="119" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1599435877125" />
+    <state width="1481" height="119" key="GridCell.Tab.0.center" timestamp="1599435877125">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="65" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1594319058000" />
+    <state width="1481" height="119" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1599435877125" />
+    <state width="1481" height="119" key="GridCell.Tab.0.left" timestamp="1599435877125">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="65" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1594319058000" />
+    <state width="1481" height="119" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1599435877125" />
+    <state width="1481" height="119" key="GridCell.Tab.0.right" timestamp="1599435877125">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="65" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1594319058000" />
+    <state width="1481" height="119" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1599435877125" />
+    <state width="1481" height="249" key="GridCell.Tab.1.bottom" timestamp="1594060954124">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="249" key="GridCell.Tab.1.bottom/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1594060954124" />
+    <state width="1481" height="249" key="GridCell.Tab.1.center" timestamp="1594060954124">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="249" key="GridCell.Tab.1.center/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1594060954124" />
+    <state width="1481" height="249" key="GridCell.Tab.1.left" timestamp="1594060954124">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="249" key="GridCell.Tab.1.left/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1594060954124" />
+    <state width="1481" height="249" key="GridCell.Tab.1.right" timestamp="1594060954124">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="249" key="GridCell.Tab.1.right/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1594060954124" />
+    <state x="151" y="0" key="SettingsEditor" timestamp="1594405636126">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="151" y="0" key="SettingsEditor/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1594405636126" />
+    <state x="151" y="0" key="SettingsEditor/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1591122221595" />
+    <state x="30" y="71" key="new project wizard" timestamp="1595258238541">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="30" y="71" key="new project wizard/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1594394874175" />
+    <state x="30" y="71" key="new project wizard/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1595258238541" />
+    <state x="342" y="186" key="run.anything.popup" timestamp="1592779248545">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="342" y="186" key="run.anything.popup/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1592779248545" />
+    <state x="347" y="0" width="840" height="832" key="search.everywhere.popup" timestamp="1591964276024">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="347" y="0" width="840" height="832" key="search.everywhere.popup/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1591964276024" />
+    <state x="347" y="0" width="840" height="832" key="search.everywhere.popup/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1591563500881" />
+    <state x="563" y="163" key="svn.repositoryBrowser" timestamp="1591122072482">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="563" y="163" key="svn.repositoryBrowser/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1591122072482" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/test/day1_selenium_intro/FirstSelenium.java</url>
+          <line>8</line>
+          <properties class="test.day1_selenium_intro.FirstSelenium" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/test/day9_testbase_properties_driverUtil/ReadingFromProperties.java</url>
+          <line>33</line>
+          <properties class="test.day9_testbase_properties_driverUtil.ReadingFromProperties" method="using_configuration_reader_utility">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/test/day12_synchronization/ExplicitWaitPractices.java</url>
+          <line>45</line>
+          <properties class="test.day12_synchronization.ExplicitWaitPractices" method="tc41_dynamic_page_element">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/test/day2_findElement_getText_getAttribute/P4_GoogleTitleVerification.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/test/day7_javafaker_webtables/SmartBear.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/test/day9_testbase_properties_driverUtil/ReadingFromProperties.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/test/day9_testbase_properties_driverUtil/DriverUtilisPractice.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/test/day9_testbase_properties_driverUtil/Singleton.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/test/day10_jsexecutor_upload_actions/TC15_Hover_test.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

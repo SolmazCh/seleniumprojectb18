@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression" duration-ms="82131" started-at="2020-09-06T19:44:45 EDT" finished-at="2020-09-06T19:46:07 EDT">
+    <groups>
+    </groups>
+    <test name="Drop downs tests" duration-ms="13568" started-at="2020-09-06T19:44:45 EDT" finished-at="2020-09-06T19:44:58 EDT">
+      <class name="test.day6_TestNG_dropdowns.Task2">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.day6_TestNG_dropdowns.Task2@5ec0a365]" name="setUp" is-config="true" duration-ms="6940" started-at="2020-09-06T19:44:45 EDT" finished-at="2020-09-06T19:44:52 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:test.day6_TestNG_dropdowns.Task2@5ec0a365]" name="test1" duration-ms="4298" started-at="2020-09-06T19:44:52 EDT" finished-at="2020-09-06T19:44:56 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.day6_TestNG_dropdowns.Task2@5ec0a365]" name="tearDown" is-config="true" duration-ms="2291" started-at="2020-09-06T19:44:56 EDT" finished-at="2020-09-06T19:44:58 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.day6_TestNG_dropdowns.Task2 -->
+    </test> <!-- Drop downs tests -->
+    <test name="testing intro" duration-ms="5" started-at="2020-09-06T19:44:58 EDT" finished-at="2020-09-06T19:44:58 EDT">
+      <class name="test.day5_testing_intro.FirstTestNGClass">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.day5_testing_intro.FirstTestNGClass@369f73a2]" name="setUp" is-config="true" duration-ms="1" started-at="2020-09-06T19:44:58 EDT" finished-at="2020-09-06T19:44:58 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:test.day5_testing_intro.FirstTestNGClass@369f73a2]" name="test1" duration-ms="1" started-at="2020-09-06T19:44:58 EDT" finished-at="2020-09-06T19:44:58 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.day5_testing_intro.FirstTestNGClass@369f73a2]" name="tearDown" is-config="true" duration-ms="1" started-at="2020-09-06T19:44:58 EDT" finished-at="2020-09-06T19:44:58 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.day5_testing_intro.FirstTestNGClass -->
+    </test> <!-- testing intro -->
+    <test name="javafaker tests" duration-ms="68484" started-at="2020-09-06T19:44:58 EDT" finished-at="2020-09-06T19:46:07 EDT">
+      <class name="test.day7_javafaker_webtables.SmartBear">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.day7_javafaker_webtables.SmartBear@551aa95a]" name="setUp" is-config="true" duration-ms="6438" started-at="2020-09-06T19:45:18 EDT" finished-at="2020-09-06T19:45:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="p1_smartbear_login_test()[pri:0, instance:test.day7_javafaker_webtables.SmartBear@551aa95a]" name="p1_smartbear_login_test" duration-ms="1525" started-at="2020-09-06T19:45:24 EDT" finished-at="2020-09-06T19:45:26 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- p1_smartbear_login_test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.day7_javafaker_webtables.SmartBear@551aa95a]" name="tearDown" is-config="true" duration-ms="2945" started-at="2020-09-06T19:45:26 EDT" finished-at="2020-09-06T19:45:29 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.day7_javafaker_webtables.SmartBear -->
+      <class name="test.day7_javafaker_webtables.SmartBearOrderVerify">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.day7_javafaker_webtables.SmartBearOrderVerify@1dfe2924]" name="setUp" is-config="true" duration-ms="6001" started-at="2020-09-06T19:45:37 EDT" finished-at="2020-09-06T19:45:43 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="webTable()[pri:0, instance:test.day7_javafaker_webtables.SmartBearOrderVerify@1dfe2924]" name="webTable" duration-ms="54" started-at="2020-09-06T19:45:43 EDT" finished-at="2020-09-06T19:45:43 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webTable -->
+      </class> <!-- test.day7_javafaker_webtables.SmartBearOrderVerify -->
+      <class name="test.day7_javafaker_webtables.Cyber_Registr_form_confirmTC6">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.day7_javafaker_webtables.Cyber_Registr_form_confirmTC6@2758fe70]" name="setUp" is-config="true" duration-ms="5607" started-at="2020-09-06T19:44:58 EDT" finished-at="2020-09-06T19:45:04 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="registrForm()[pri:0, instance:test.day7_javafaker_webtables.Cyber_Registr_form_confirmTC6@2758fe70]" name="registrForm" duration-ms="2304" started-at="2020-09-06T19:45:04 EDT" finished-at="2020-09-06T19:45:06 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrForm -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.day7_javafaker_webtables.Cyber_Registr_form_confirmTC6@2758fe70]" name="tearDown" is-config="true" duration-ms="2676" started-at="2020-09-06T19:45:06 EDT" finished-at="2020-09-06T19:45:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.day7_javafaker_webtables.Cyber_Registr_form_confirmTC6 -->
+      <class name="test.day7_javafaker_webtables.T7_month_dropdown">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.day7_javafaker_webtables.T7_month_dropdown@6e6c3152]" name="setUp" is-config="true" duration-ms="5623" started-at="2020-09-06T19:45:52 EDT" finished-at="2020-09-06T19:45:57 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="month_default_values_test()[pri:0, instance:test.day7_javafaker_webtables.T7_month_dropdown@6e6c3152]" name="month_default_values_test" duration-ms="173" started-at="2020-09-06T19:45:57 EDT" finished-at="2020-09-06T19:45:57 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- month_default_values_test -->
+        <test-method status="PASS" signature="month_list_verification()[pri:0, instance:test.day7_javafaker_webtables.T7_month_dropdown@6e6c3152]" name="month_list_verification" duration-ms="402" started-at="2020-09-06T19:45:57 EDT" finished-at="2020-09-06T19:45:58 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- month_list_verification -->
+      </class> <!-- test.day7_javafaker_webtables.T7_month_dropdown -->
+      <class name="test.day7_javafaker_webtables.printNamesAndCitiesTask5">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.day7_javafaker_webtables.printNamesAndCitiesTask5@578486a3]" name="setUp" is-config="true" duration-ms="5848" started-at="2020-09-06T19:45:09 EDT" finished-at="2020-09-06T19:45:15 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TestTheMethod()[pri:0, instance:test.day7_javafaker_webtables.printNamesAndCitiesTask5@578486a3]" name="TestTheMethod" duration-ms="287" started-at="2020-09-06T19:45:15 EDT" finished-at="2020-09-06T19:45:15 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTheMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.day7_javafaker_webtables.printNamesAndCitiesTask5@578486a3]" name="tearDown" is-config="true" duration-ms="2641" started-at="2020-09-06T19:45:15 EDT" finished-at="2020-09-06T19:45:18 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.day7_javafaker_webtables.printNamesAndCitiesTask5 -->
+      <class name="test.day7_javafaker_webtables.JavaFaker_practice">
+        <test-method status="PASS" signature="faker_test()[pri:0, instance:test.day7_javafaker_webtables.JavaFaker_practice@1f36e637]" name="faker_test" duration-ms="103" started-at="2020-09-06T19:45:09 EDT" finished-at="2020-09-06T19:45:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- faker_test -->
+      </class> <!-- test.day7_javafaker_webtables.JavaFaker_practice -->
+      <class name="test.day7_javafaker_webtables.SmartBearTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.day7_javafaker_webtables.SmartBearTests@6ebc05a6]" name="setUp" is-config="true" duration-ms="5369" started-at="2020-09-06T19:45:43 EDT" finished-at="2020-09-06T19:45:48 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="p1_smartbear_login_test()[pri:0, instance:test.day7_javafaker_webtables.SmartBearTests@6ebc05a6]" name="p1_smartbear_login_test" duration-ms="610" started-at="2020-09-06T19:45:48 EDT" finished-at="2020-09-06T19:45:49 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- p1_smartbear_login_test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.day7_javafaker_webtables.SmartBearTests@6ebc05a6]" name="tearDown" is-config="true" duration-ms="2833" started-at="2020-09-06T19:45:49 EDT" finished-at="2020-09-06T19:45:52 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.day7_javafaker_webtables.SmartBearTests -->
+      <class name="test.day7_javafaker_webtables.smartBearOrderVerification">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.day7_javafaker_webtables.smartBearOrderVerification@35d176f7]" name="setUp" is-config="true" duration-ms="5811" started-at="2020-09-06T19:45:29 EDT" finished-at="2020-09-06T19:45:34 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="webTable()[pri:0, instance:test.day7_javafaker_webtables.smartBearOrderVerification@35d176f7]" name="webTable" duration-ms="254" started-at="2020-09-06T19:45:34 EDT" finished-at="2020-09-06T19:45:35 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webTable -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.day7_javafaker_webtables.smartBearOrderVerification@35d176f7]" name="tearDown" is-config="true" duration-ms="2059" started-at="2020-09-06T19:45:35 EDT" finished-at="2020-09-06T19:45:37 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.day7_javafaker_webtables.smartBearOrderVerification -->
+      <class name="test.day7_javafaker_webtables.verifyOrdarTask4">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.day7_javafaker_webtables.verifyOrdarTask4@50b494a6]" name="setUp" is-config="true" duration-ms="6075" started-at="2020-09-06T19:45:58 EDT" finished-at="2020-09-06T19:46:04 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:test.day7_javafaker_webtables.verifyOrdarTask4@50b494a6]" name="Test1" duration-ms="30" started-at="2020-09-06T19:46:04 EDT" finished-at="2020-09-06T19:46:04 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.day7_javafaker_webtables.verifyOrdarTask4@50b494a6]" name="tearDown" is-config="true" duration-ms="2800" started-at="2020-09-06T19:46:04 EDT" finished-at="2020-09-06T19:46:07 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.day7_javafaker_webtables.verifyOrdarTask4 -->
+    </test> <!-- javafaker tests -->
+  </suite> <!-- Regression -->
+</testng-results>

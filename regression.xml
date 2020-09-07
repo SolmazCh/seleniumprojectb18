@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Regression">
+
+<test name="Drop downs tests">
+    
+    <classes>
+        <class name="test.day6_TestNG_dropdowns.Task2"></class>
+    </classes>
+</test>
+    
+    <test name="testing intro">
+        <classes>
+            <class name="test.day5_testing_intro.FirstTestNGClass"></class>
+        </classes>
+        
+    </test>
+
+    <test name="javafaker tests">
+        <packages>
+            <package name="test.day7_javafaker_webtables"></package>
+        </packages>
+    </test>
+</suite>
